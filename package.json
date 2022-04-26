@@ -1,0 +1,23 @@
+{
+  "name": "game-of-life",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckP/game-of-life.git"
+  },
+  "author": "lucp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckP/game-of-life/issues"
+  },
+  "homepage": "https://github.com/luckP/game-of-life#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.11.5",
+    "poper": "^0.1.1"
+  }
+}
